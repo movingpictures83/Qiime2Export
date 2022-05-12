@@ -1,0 +1,2 @@
+Prefix plugins/Qiime2Export/example
+Plugin Qiime2Export inputfile synthetic.qza outputfile .
